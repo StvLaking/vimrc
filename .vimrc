@@ -6,9 +6,10 @@ syntax on
 
 set nocompatible
 
+colorscheme desert
 set foldenable
 set foldmethod=manual
 
 set autoread
-set autoindent
-set tabstop=3 
+set tabstop=4 
+set softtabstop=4 
